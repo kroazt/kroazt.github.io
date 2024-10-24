@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kroazt.github.io/pAa/sitemap.pAa
